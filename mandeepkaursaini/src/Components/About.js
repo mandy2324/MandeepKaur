@@ -1,55 +1,31 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class About extends Component {
-  render() {
 
-    if(this.props.data){
-      var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
-      var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
-    }
+function About() {
+   return (
+     <>
+     <section id="about">
+     <div className="row">
+      
+        <div className="twelve columns main-col">
+           <h2>Hello, I'm Mandeepkaur!</h2>
+           <p>I'm an inquisitive person who likes to learn lots of different things, a problem-solver who challenges everything, and a diligent worker who doesn't take life too seriously and celebrates the simple things.</p>
+           <p>I had been working in the business industry for almost four years but desired a change. I learned to code in high school but had no idea I could make a career out of it. So I changed gears and entered the technical profession, and I am currently prepared to welcome the opportunities that will come my way. </p>
+           <p>I am passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of North Carolina, Chapel Hill. I'm delighted I finally decided to take the plunge. Now I'm seeking for my first professional position as a Software Engineer, as well as a team with which to interact and learn.</p>
+           <div className="row">
+          
+              <div className="columns download">
+                 <p>
+                 <a href="https://docs.google.com/document/d/1_aRB2F42I4ilYlIbpQSrCW7S8t00HFkRi3Le7QdPKyk/edit?usp=sharing" download className="button">DOWNLOAD MY RESUME</a>
+                 </p>
+              </div>
+           </div>
+        </div>
+     </div>
 
-    return (
-      <section id="about">
-      <div className="row">
-         <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Mandeepkaur Profile Pic" />
-         </div>
-         <div className="nine columns main-col">
-            <h2>About Me</h2>
-
-            <p>{bio}</p>
-            <div className="row">
-               <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
-               </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
-               </div>
-            </div>
-         </div>
-      </div>
-
-   </section>
-    );
-  }
-}
+  </section>
+  </>
+   );
+ }
 
 export default About;
