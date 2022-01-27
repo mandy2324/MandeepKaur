@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Mandeepkaur Saini",
+    "occupation": "Full Stack Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "Hello, I'm Mandeepkaur! I'm an inquisitive person who likes to learn lots of different things, a problem-solver who challenges everything, and a diligent worker who doesn't take life too seriously and celebrates the simple things.",
+    "email": "m23saini@gmail.com",
+    "phone": "8037579008",
+    "address": {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "zip": "27560"
+    },
+    "resumedownload": "https://docs.google.com/document/d/1_aRB2F42I4ilYlIbpQSrCW7S8t00HFkRi3Le7QdPKyk/edit?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/m23saini/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name":"email",
+        "url":"mailto:m23saini@gmail.com",
+        "className":"fa fa-envelope-o"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mandy2324",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [ {
+      "name":"HTML",
+      "level":"90%"
+    },
+    {
+      "name":"CSS",
+      "level":"90%"
+    },
+    {
+      "name":"JAVASCRIPT",
+      "level":"70%"
+    },
+    {
+      "name":"REACT",
+      "level":"60%"
+    },
+    {
+      "name":"MYSQL",
+      "level":"80%"
+    },
+    {
+      "name":"MONGOBD",
+      "level":"80%"
+    },
+    {
+      "name":"NODE",
+      "level":"80%"
+    }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
