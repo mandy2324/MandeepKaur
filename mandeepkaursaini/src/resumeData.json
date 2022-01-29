@@ -27,93 +27,85 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of North Carolina at Chapel Hil",
+        "degree": "Full Stack Web Development Certificate",
+        "graduated": "January 2022"
+      },
+        {
+          "school": "University of South Carolina, Sumter ",
+          "degree": "Associate of Science",
+          "graduated": "December 2020"
+        },
+      {
+        "school": "Sardar Patel University, Anand-Gujarat (India)",
+        "degree": "Post Grad Diploma in Business Management ",
+        "graduated": "May 2017"
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Sardar Patel University, Anand-Gujarat (India)",
+        "degree": "Bachelor of Business Administration",
+        "graduated": "May 2015"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Belk",
+        "title": "Administrative Assistant",
+        "years": "Nov 2019 - Present",
+        "description": "Provided primary customer support to internal and external customers in a fast-paced environment. Maintained customer satisfaction with forward-thinking strategies focused on addressing customer needs and resolving concerns. Cultivated customer loyalty, promoted repeat customers, and improved sales."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": " Red Roof Inn",
+        "title": "General- Manager",
+        "years": "June 2019 - July 2021",
+        "description": "Managed budget implementations, employee reviews, training, schedules, and contract negotiations for the franchise. Organised and achieved margin targets consistently to stay on track with growth plans and preparing forecasts with the help of pace reports ."
+      },
+      {
+        "company": "Country Inn and Suites",
+        "title": "Assistant Manager",
+        "years": "Oct 2018 - May 2019",
+        "description": "Created organisation systems for financial reports, and schedules, dramatically increasing operational efficiency. Delegated daily tasks to team members to optimise group productivity. Conducted weekly staff meetings to motivate staff members, address concerns and questions, plan improvements, and evaluate progress toward goals."
       }
-    ],
-    "skills": [ {
-      "name":"HTML",
-      "level":"90%"
-    },
-    {
-      "name":"CSS",
-      "level":"90%"
-    },
-    {
-      "name":"JAVASCRIPT",
-      "level":"70%"
-    },
-    {
-      "name":"REACT",
-      "level":"60%"
-    },
-    {
-      "name":"MYSQL",
-      "level":"80%"
-    },
-    {
-      "name":"MONGOBD",
-      "level":"80%"
-    },
-    {
-      "name":"NODE",
-      "level":"80%"
-    }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Express.js-Note-taker",
+        "category": "This application was created to allow users to read, write, save, and delete notes.",
+        "image": "https://raw.githubusercontent.com/mandy2324/Express.js-Note-taker/master/Assets/11-express-homework-demo-01.png",
+        "url":"https://thawing-ridge-42340.herokuapp.com/notes",
+        "github": "https://github.com/mandy2324/Express.js-Note-taker"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Work Day Scheduler",
+        "category": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
+        "image": "https://raw.githubusercontent.com/mandy2324/Workday-Scheduler/master/Assets/05-third-party-apis-homework-demo.gif",
+        "url": "https://mandy2324.github.io/Workday-Scheduler/",
+        "github": "https://github.com/mandy2324/Workday-Scheduler"
+
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Weather Dashboard",
+        "category": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
+        "image": "https://raw.githubusercontent.com/mandy2324/Weather-Dashboard/master/assets/demo.png",
+        "url": "https://mandy2324.github.io/Weather-Dashboard/",
+        "github": "https://github.com/mandy2324/Weather-Dashboard"
+
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Code-Quiz",
+        "category": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
+        "image": "https://raw.githubusercontent.com/mandy2324/Code-Quiz/master/assets/image/demo.gif",
+        "url": "https://mandy2324.github.io/Code-Quiz/",
+        "github": "https://github.com/mandy2324/Code-Quiz"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Password Generator",
+        "category": "This an application that enables employees to generate random passwords based on criteria that they’ve selected.",
+        "image": "https://raw.githubusercontent.com/mandy2324/Password-Generator/master/assets/images/03-javascript-homework-demo.png",
+        "url": "https://mandy2324.github.io/Password-Generator/",
+        "github": "https://github.com/mandy2324/Password-Generator"
       }
     ]
   }
