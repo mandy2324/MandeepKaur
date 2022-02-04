@@ -30,23 +30,30 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
-
-      <div className="row">
-
-         <div className="twelve columns collapsed">
-
-            <h1>Projects</h1>
-
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
-            </div>
-            <div className="github text-center">View additional projects <a href="https://github.com/mandy2324">here</a></div>
-          </div>
-      </div>
-   </section>
-    );
-  }
-}
+      <>
+       <section id="portfolio">
+ 
+       <div className="row">
+ 
+          <div className="twelve columns collapsed">
+ 
+             <h1>Projects</h1>
+            
+             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                 {projects}
+             </div>
+            
+ 
+             <div className="github text-center">View additional projects <a href="https://github.com/nicolewallace09">here</a></div>
+           </div>
+       </div>
+ 
+      
+    </section>
+    </>
+     );
+   }
+ }
+ 
 
 export default Portfolio;

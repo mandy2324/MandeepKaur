@@ -106,7 +106,35 @@
         "image": "psgen.png",
         "url": "https://mandy2324.github.io/Password-Generator/",
         "github": "https://github.com/mandy2324/Password-Generator"
+      },
+      {
+        "title": "Team Profile Generator",
+        "category": "Using Node.js and it's modules to create a generated HTML team profile to demonstrate OOP and TDD.",
+        "image": "img.PNG",
+        "github": "https://github.com/mandy2324/Team-Profile-Generator"
+      },
+       {
+        "title": "Workout Tracker",
+        "category": "An App to track workouts, build with MongoDB to Heroku with help of MongoDb Atlas connected a database.",
+        "image": "stats.png",
+        "url": "https://workout-tracker2324.herokuapp.com/",
+        "github": "https://github.com/mandy2324/Workout-Tracker"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "Application that allows users to add expenses and deposits to their budget with or without a connection.",
+        "image": "budget.png",
+        "url": "https://budget-tracker-mks.herokuapp.com/",
+        "github": "https://github.com/mandy2324/Budget-tracker"
+      },
+      {
+        "title": "Book Search Engine",
+        "category": "Refactoring Google search API using REST API to use GraphQL and Apollo.(MERN-Stack application)",
+        "image": "book.png",
+        "url": "https://booksearchengine2324.herokuapp.com/",
+        "github": "https://github.com/mandy2324/Book-Search-Engine"
       }
+
     ]
   }
 }
