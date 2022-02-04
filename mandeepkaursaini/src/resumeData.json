@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Mandeepkaur Saini",
-    "occupation": "Full Stack Web Developer",
+    "occupation": "Full Stack Software Engineer",
     "image": "profilepic.jpg",
     "bio": "Hello, I'm Mandeepkaur! I'm an inquisitive person who likes to learn lots of different things, a problem-solver who challenges everything, and a diligent worker who doesn't take life too seriously and celebrates the simple things.",
     "resumedownload": "https://docs.google.com/document/d/1_aRB2F42I4ilYlIbpQSrCW7S8t00HFkRi3Le7QdPKyk/edit?usp=sharing",
@@ -73,14 +73,14 @@
       {
         "title": "Express.js-Note-taker",
         "category": "This application was created to allow users to read, write, save, and delete notes.",
-        "image": "https://raw.githubusercontent.com/mandy2324/Express.js-Note-taker/master/Assets/11-express-homework-demo-01.png",
+        "image": "noteTaker.png",
         "url":"https://thawing-ridge-42340.herokuapp.com/notes",
         "github": "https://github.com/mandy2324/Express.js-Note-taker"
       },
       {
         "title": "Work Day Scheduler",
         "category": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
-        "image": "https://raw.githubusercontent.com/mandy2324/Workday-Scheduler/master/Assets/05-third-party-apis-homework-demo.gif",
+        "image": "wds.gif",
         "url": "https://mandy2324.github.io/Workday-Scheduler/",
         "github": "https://github.com/mandy2324/Workday-Scheduler"
 
@@ -88,7 +88,7 @@
       {
         "title": "Weather Dashboard",
         "category": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
-        "image": "https://raw.githubusercontent.com/mandy2324/Weather-Dashboard/master/assets/demo.png",
+        "image": "demo.png",
         "url": "https://mandy2324.github.io/Weather-Dashboard/",
         "github": "https://github.com/mandy2324/Weather-Dashboard"
 
@@ -96,14 +96,14 @@
       {
         "title": "Code-Quiz",
         "category": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
-        "image": "https://raw.githubusercontent.com/mandy2324/Code-Quiz/master/assets/image/demo.gif",
+        "image": "cq.gif",
         "url": "https://mandy2324.github.io/Code-Quiz/",
         "github": "https://github.com/mandy2324/Code-Quiz"
       },
       {
         "title": "Password Generator",
         "category": "This an application that enables employees to generate random passwords based on criteria that they’ve selected.",
-        "image": "https://raw.githubusercontent.com/mandy2324/Password-Generator/master/assets/images/03-javascript-homework-demo.png",
+        "image": "psgen.png",
         "url": "https://mandy2324.github.io/Password-Generator/",
         "github": "https://github.com/mandy2324/Password-Generator"
       }

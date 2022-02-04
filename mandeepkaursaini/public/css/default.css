@@ -417,7 +417,7 @@ dd { margin: 0 0 0 20px; }
    margin-right: 3px;
    margin-bottom: 6px;
 	color: #6E757C;
-	background-color: #E6E8EB;
+	background-color: #Efefef;
 
 	-webkit-transition: all 200ms ease-in-out;
 	-moz-transition: all 200ms ease-in-out;
@@ -464,11 +464,10 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
-   color: #fff;
+   color: #3f3f3f;
 	padding: 12px 20px;
 	margin-bottom: 18px;
    border: none;
