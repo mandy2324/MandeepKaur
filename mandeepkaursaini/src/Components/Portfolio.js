@@ -44,7 +44,7 @@ class Portfolio extends Component {
              </div>
             
  
-             <div className="github text-center">View additional projects <a href="https://github.com/nicolewallace09">here</a></div>
+             <div className="github text-center">View additional projects <a href="https://github.com/mandy2324">here</a></div>
            </div>
        </div>
  
