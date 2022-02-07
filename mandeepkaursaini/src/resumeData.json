@@ -70,7 +70,8 @@
   },
   "portfolio": {
     "projects": [
-      {
+      {        
+        "id": 1,
         "title": "Express.js-Note-taker",
         "category": "This application was created to allow users to read, write, save, and delete notes.",
         "image": "noteTaker.png",
@@ -78,6 +79,7 @@
         "github": "https://github.com/mandy2324/Express.js-Note-taker"
       },
       {
+        "id": 2,
         "title": "Work Day Scheduler",
         "category": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
         "image": "wds.gif",
@@ -86,6 +88,7 @@
 
       },
       {
+        "id": 3,
         "title": "Weather Dashboard",
         "category": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
         "image": "demo.png",
@@ -94,6 +97,7 @@
 
       },
       {
+        "id": 4,
         "title": "Code-Quiz",
         "category": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
         "image": "cq.gif",
@@ -101,6 +105,7 @@
         "github": "https://github.com/mandy2324/Code-Quiz"
       },
       {
+        "id":5,
         "title": "Password Generator",
         "category": "This an application that enables employees to generate random passwords based on criteria that they’ve selected.",
         "image": "psgen.png",
@@ -108,12 +113,14 @@
         "github": "https://github.com/mandy2324/Password-Generator"
       },
       {
+        "id":6,
         "title": "Team Profile Generator",
         "category": "Using Node.js and it's modules to create a generated HTML team profile to demonstrate OOP and TDD.",
         "image": "img.PNG",
         "github": "https://github.com/mandy2324/Team-Profile-Generator"
       },
        {
+        "id":7,
         "title": "Workout Tracker",
         "category": "An App to track workouts, build with MongoDB to Heroku with help of MongoDb Atlas connected a database.",
         "image": "stats.png",
@@ -121,6 +128,7 @@
         "github": "https://github.com/mandy2324/Workout-Tracker"
       },
       {
+        "id":8,
         "title": "Budget Tracker",
         "category": "Application that allows users to add expenses and deposits to their budget with or without a connection.",
         "image": "budget.png",
@@ -128,6 +136,7 @@
         "github": "https://github.com/mandy2324/Budget-tracker"
       },
       {
+        "id":9,
         "title": "Book Search Engine",
         "category": "Refactoring Google search API using REST API to use GraphQL and Apollo.(MERN-Stack application)",
         "image": "book.png",

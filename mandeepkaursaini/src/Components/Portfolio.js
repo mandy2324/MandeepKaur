@@ -9,7 +9,6 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/'+projects.image;
         var projectUrl = projects.url;
         var projectGit = projects.github; 
-
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
             <a href={projectUrl} key={projects.id}>
@@ -20,40 +19,39 @@ class Portfolio extends Component {
                      <p>{projects.category}</p>
                   </div>
                 </div>
-            </a>
+                </a>
           </div>
-
           { projectGit ? <a href={projectGit} target="_blank" rel="noopener noreferrer" className="repo"><button type="button" className="deploy"><i class="fa fa-github"></i></button></a> : null }
           { projectUrl ? <a href={projectUrl} target="_blank" rel="noopener noreferrer" className="deploy"><button type="button" className="repo"><i class="fa fa-link"></i></button></a> : null } 
         </div>
       })
+      
     }
 
     return (
-      <>
-       <section id="portfolio">
- 
-       <div className="row">
- 
-          <div className="twelve columns collapsed">
- 
-             <h1>Projects</h1>
-            
-             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                 {projects}
-             </div>
-            
- 
-             <div className="github text-center">View additional projects <a href="https://github.com/mandy2324">here</a></div>
-           </div>
-       </div>
- 
-      
-    </section>
-    </>
-     );
-   }
- }
- 
+     <>
+      <section id="portfolio">
+
+      <div className="row">
+
+         <div className="twelve columns collapsed">
+
+            <h1>Projects</h1>
+           
+            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                {projects}
+            </div>
+           
+
+            <div className="github text-center">View additional projects <a href="https://github.com/mandy2324">here</a></div>
+          </div>
+      </div>
+
+    
+   </section>
+   </>
+    );
+  }
+}
 
 export default Portfolio;

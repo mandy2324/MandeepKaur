@@ -394,11 +394,11 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #3f3f3f;
+   background: #ece8e8;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
-   color: #efefef;
+   color: #313131;
 	padding: 12px 20px;
 	margin-bottom: 18px;
    border: none;
@@ -422,7 +422,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #292d31;
+   background: #3d4145;
    color: #fff;
 }
 
@@ -617,7 +617,7 @@ input[type="checkbox"] { display: inline; }
 /* block grids
 --------------------------------------------------------------------- */
 .bgrid-sixths [class*="column"]   { width: 16.66667%; }
-.bgrid-quarters [class*="column"] { width: 25%; }
+.bgrid-quarters [class*="column"] { width: 20%; }
 .bgrid-thirds [class*="column"]   { width: 33.33333%; }
 .bgrid-halves [class*="column"]   { width: 50%; }
 
