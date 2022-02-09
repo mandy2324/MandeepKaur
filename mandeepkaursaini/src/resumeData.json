@@ -70,48 +70,6 @@
   },
   "portfolio": {
     "projects": [
-      {        
-        "id": 1,
-        "title": "Express.js-Note-taker",
-        "category": "This application was created to allow users to read, write, save, and delete notes.",
-        "image": "noteTaker.png",
-        "url":"https://thawing-ridge-42340.herokuapp.com/notes",
-        "github": "https://github.com/mandy2324/Express.js-Note-taker"
-      },
-      {
-        "id": 2,
-        "title": "Work Day Scheduler",
-        "category": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
-        "image": "wds.gif",
-        "url": "https://mandy2324.github.io/Workday-Scheduler/",
-        "github": "https://github.com/mandy2324/Workday-Scheduler"
-
-      },
-      {
-        "id": 3,
-        "title": "Weather Dashboard",
-        "category": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
-        "image": "demo.png",
-        "url": "https://mandy2324.github.io/Weather-Dashboard/",
-        "github": "https://github.com/mandy2324/Weather-Dashboard"
-
-      },
-      {
-        "id": 4,
-        "title": "Code-Quiz",
-        "category": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
-        "image": "cq.gif",
-        "url": "https://mandy2324.github.io/Code-Quiz/",
-        "github": "https://github.com/mandy2324/Code-Quiz"
-      },
-      {
-        "id":5,
-        "title": "Password Generator",
-        "category": "This an application that enables employees to generate random passwords based on criteria that they’ve selected.",
-        "image": "psgen.png",
-        "url": "https://mandy2324.github.io/Password-Generator/",
-        "github": "https://github.com/mandy2324/Password-Generator"
-      },
       {
         "id":6,
         "title": "Team Profile Generator",
@@ -142,6 +100,49 @@
         "image": "book.png",
         "url": "https://booksearchengine2324.herokuapp.com/",
         "github": "https://github.com/mandy2324/Book-Search-Engine"
+      },
+      {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "category": "This application is retrieving data from another application's API and using it in the context of displaying weather of different cities. ",
+        "image": "demo.png",
+        "url": "https://mandy2324.github.io/Weather-Dashboard/",
+        "github": "https://github.com/mandy2324/Weather-Dashboard"
+
+      },
+      {        
+        "id": 1,
+        "title": "Express.js-Note-taker",
+        "category": "This application was created to allow users to read, write, save, and delete notes.",
+        "image": "noteTaker.png",
+        "url":"https://thawing-ridge-42340.herokuapp.com/notes",
+        "github": "https://github.com/mandy2324/Express.js-Note-taker"
+      },
+      {
+        "id": 2,
+        "title": "Work Day Scheduler",
+        "category": "This application uses third-party API and JavaScript to create a calendar-style scheduler allowing users to save events for each hour of the day.",
+        "image": "wds.gif",
+        "url": "https://mandy2324.github.io/Workday-Scheduler/",
+        "github": "https://github.com/mandy2324/Workday-Scheduler"
+
+      },
+   
+      {
+        "id": 4,
+        "title": "Code-Quiz",
+        "category": "This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. ",
+        "image": "cq.gif",
+        "url": "https://mandy2324.github.io/Code-Quiz/",
+        "github": "https://github.com/mandy2324/Code-Quiz"
+      },
+      {
+        "id":5,
+        "title": "Password Generator",
+        "category": "This an application that enables employees to generate random passwords based on criteria that they’ve selected.",
+        "image": "psgen.png",
+        "url": "https://mandy2324.github.io/Password-Generator/",
+        "github": "https://github.com/mandy2324/Password-Generator"
       }
 
     ]
