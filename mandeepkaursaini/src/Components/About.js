@@ -16,7 +16,7 @@ function About() {
           
               <div className="columns download">
                  <p>
-                 <a href="https://docs.google.com/document/d/1QKEtpjkf9uIwmh5bCMPhaXfI9TQraON572R4cROTPNY/edit?usp=sharing" download className="button">DOWNLOAD MY RESUME</a>
+                 <a href="https://drive.google.com/file/d/1N7KOqXKhZwRKFWsXe0WylgPGBuAdO_8v/view?usp=sharing" download className="button">DOWNLOAD MY RESUME</a>
                  </p>
               </div>
            </div>
